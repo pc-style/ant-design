@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Archived upstream fork/reference. Do not use this repository for new work.**
+>
+> Upstream: [ant-design/ant-design](https://github.com/ant-design/ant-design). The maintained `pc-style` delta is **none**; the only new commit is this archive notice.
+> Upstream history and license/provenance notices are preserved. The repository-detected license is [MIT License](LICENSE).
+> Use upstream for current code, releases, issues, and security updates.
+
 <div align="center"><a name="readme-top"></a>
 
 <img height="180" src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg">
